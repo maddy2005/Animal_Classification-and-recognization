@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Animal_Classification/train
+val: /content/drive/MyDrive/Animal_Classification/val
+nc : 7
+names : ['Buffalo','cats','dogs','Elephant','Rhino','snakes','Zebra']
